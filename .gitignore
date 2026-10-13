@@ -1,0 +1,7 @@
+# Imágenes exportadas con docker save (pesan cientos de MB).
+*.tar
+
+# Entornos virtuales y temporales de Python.
+.venv/
+__pycache__/
+*.pyc

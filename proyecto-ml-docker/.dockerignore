@@ -1,0 +1,15 @@
+# Entorno virtual local: la imagen instala sus propias librerías.
+.venv/
+
+# El dataset y el script de entrenamiento no se necesitan para servir predicciones.
+data/
+train_model.py
+
+# Archivos temporales de Python.
+__pycache__/
+*.pyc
+
+# Control de versiones y documentación.
+.git/
+.gitignore
+README.md
