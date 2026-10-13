@@ -1,6 +1,6 @@
 # Tarea 2 – Portafolio de prácticas y proyecto individual de Docker
 
-Diane – [Código] – Programación Bioinformática – [Sección]
+Ek Poot Pulido Michelle Diane – 211597866 – Programación Bioinformática – D01
 
 | Carpeta | Contenido |
 | --- | --- |
